@@ -25,6 +25,8 @@ section {
             margin-left:8px;
 
             margin-right:8px;
+    
+             margin-bottom:5px;
 
             position: relative;
 
@@ -70,6 +72,8 @@ p{text-align:center;
   .title-container p.title {
 
             font-weight: bold;
+      
+              text-size:20px;
 
             margin: 0; /* Remove default margin */}
 
@@ -110,6 +114,7 @@ p{text-align:center;
           }
 
   /*Media QUeries*/
+
   /*Desktop*/
 
 @media{min width:992px}
