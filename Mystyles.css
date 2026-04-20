@@ -1,0 +1,73 @@
+body {font-size:16px;
+color:black;
+font-family:Oxigen; sans-serif}
+
+{border box sizing: border box
+  box-color: black;}
+
+h2{text-align: center;
+text-color:black
+padding:12px;}
+
+h3 {
+  text-align: center;
+text-color: black;
+display: col-xs-12 !important;}
+}
+ 
+ /* Hide the navbar toggler icon */
+.navbar-toggler {
+    display: col-xs-12 col-sm-12!important;}
+
+
+navbar-header{border-rqdious: 0;
+bacground-color:#AEAEAE
+padding:12px;
+margin-top:16px;}
+
+ Navbar toggle-icon bar. {
+  display;block-size: width:22px;
+  border border-radius: 1px;
+
+  navbar-toggleicon bar+.icon bar 
+  {margin-top:4px;
+    @media (min-width:768px;{navbar-togle. 
+      display:none;}
+      navbar-nav:;
+       {
+        line-height: a{;
+          pdding-top:10px;
+          padding-bottom: 10px: lime line-height:  
+       }
+
+Nav-bar brand h1{
+  font-family:;
+  color:000000;
+  font-size:1.5 rem(text-transform: uppercase;
+    font-weight: bold;
+    margin-top:0px;
+    margin-bottom:0px;
+    line-height: .75;
+}
+h2{text align:center;
+text-color: #000000
+text decoration: none;}
+
+navbar-toggler-icon{
+  icon-color:#000000;
+  icon height: 10px;
+  iconwidth: 5px;}
+@media (min-width768px) and (max-width:991px;}
+
+  extra small devices outline-style: ;
+  @media(max-width567px)
+
+  h3{text-align: center;
+    text-color:#00000;
+   text-decoration: none;
+   border-bottom:black solid;}
+
+   nav-list a{
+    color:#000000;
+   }
+           
